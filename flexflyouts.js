@@ -1,4 +1,5 @@
 /*========================================================*
+(c) 2012 Tim Giegel (tmgiegel@gmail.com)
 autoPosFlyouts(str:nav container, str:top nav element, str:flyout container)
 containerParam = #subnav
 navBtnParam = li.subnav-lvl1

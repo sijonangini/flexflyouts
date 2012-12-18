@@ -1,5 +1,7 @@
 flexflyouts
 ===========
+(c) 2012 Tim Giegel (tmgiegel@gmail.com)
+
 
 Responsive and auto positioning flyout menus.
 
